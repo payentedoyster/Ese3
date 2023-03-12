@@ -1,0 +1,4 @@
+TC1_input.txt 1
+TC2_input.txt 9
+TC3_input.txt 10
+TC4_input.txt 12
